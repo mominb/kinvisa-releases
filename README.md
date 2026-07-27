@@ -1,3 +1,3 @@
-# Visassist
+# KinVisa - Evidence Builder
 
-Public release artifacts for Visassist desktop app updates.
+Public release artifacts for KinVisa desktop app updates.
